@@ -12,7 +12,7 @@
 
 <h3 align="left">Follow my Instagram</h3>
 
-<a href="https://instagram.com/yourusername" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+<a href="https://instagram.com/mhnief" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="Instagram logo" />
   <span style="margin-left: 8px; font-size: 18px; vertical-align: middle;">@mhnief</span>
 </a>
@@ -36,14 +36,6 @@
 ---
 
 <h3 align="left">Play game with me</h3>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hanifzx/Hanifzx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hanifzx/Hanifzx/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hanifzx/Hanifzx/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
