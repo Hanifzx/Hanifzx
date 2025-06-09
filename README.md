@@ -12,11 +12,11 @@
 
 <h3 align="left">Follow my Instagram</h3>
 
-###
+<a href="https://instagram.com/yourusername" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="Instagram logo" />
+  <span style="margin-left: 8px; font-size: 18px; vertical-align: middle;">@mhnief</span>
+</a>
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
 
 ###
 
