@@ -1,6 +1,6 @@
 <h1 align="left">Hello World! I'm Hanifzx</h1>
 
-###
+---
 
 <h3 align="left">About me</h3>
 
@@ -8,7 +8,7 @@
 
 <p align="left">I'm currently learning to become a Front-End Developer.  <br>I enjoy exploring how websites are built and how users interact with them.</p>
 
-###
+---
 
 <h3 align="left">Follow my Instagram</h3>
 
@@ -17,8 +17,7 @@
   <span style="margin-left: 8px; font-size: 18px; vertical-align: middle;">@mhnief</span>
 </a>
 
-
-###
+---
 
 <h3 align="left">Currently Learning</h3>
 
@@ -34,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-###
+---
 
 <h3 align="left">Play game with me</h3>
 
