@@ -34,11 +34,3 @@
 </div>
 
 ---
-
-<h3 align="left">Play game with me</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/Hanifzx/Hanifzx/output/snake.svg" alt="Snake animation" />
-
-###
